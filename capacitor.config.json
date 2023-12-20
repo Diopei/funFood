@@ -1,0 +1,8 @@
+{
+  "appId": "diopei.funfood",
+  "appName": "app",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
